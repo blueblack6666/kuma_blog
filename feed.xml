@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>くまの投資ブログ</title>
+  <subtitle></subtitle>
+  <link href="https://eleventyduo.netlify.app/feed.xml" rel="self"/>
+  <link href="https://eleventyduo.netlify.app/"/>
+  
+    <updated>2023-11-25T00:00:00Z</updated>
+  
+  <id>https://eleventyduo.netlify.app</id>
+  <author>
+    <name>Author Name</name>
+    <email>author@site.com</email>
+  </author>
+  
+    
+    <entry>
+      <title>新NISAまであと1か月、最安日本株式ファンドが登場！</title>
+      <link href="https://eleventyduo.netlify.app/posts/posts2023-001/"/>
+      <updated>2023-11-25T00:00:00Z</updated>
+      <id>https://eleventyduo.netlify.app/posts/posts2023-001/</id>
+      <content type="html">
+        <![CDATA[
+      <p>こんにちわ、くまです。</p>
+<p>SBIアセットマネジメント株式会社さんから、『SBI日本高配当株式（分配）ファンド（年4回決算型）』の運用開始が発表されました。<br/>
+<a href="https://www.sbigroup.co.jp/news/pr/2023/1117_14237.html">お知らせのページ</a></p>
+<p>特筆すべきはそのコストで信託報酬は年率0.099%（税込）。
+これまでのものと比べると断トツの安さです。</p>
+<p>説明には「配当利回りに着目し、高水準のインカムゲインと中長期的な値上がり益の獲得によるトータル・リターンの追求をめざします。」とあり、中身の方もなかな良さそうな気配です。</p>
+<p>また、新NISAの成長投資枠での購入も可能だとのこと。</p>
+<p>これまで、日本株のファンドは良いものが無いと言われていましたがこちらのファンドがそれを覆すことになるのか注目しています。</p>
+
+    ]]>
+      </content>
+    </entry>
+  
+</feed>
