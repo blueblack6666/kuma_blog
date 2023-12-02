@@ -36,7 +36,7 @@ npm run publish
 
 
 
-## GGithubページの確認
+## Githubページの確認
 
 https://blueblack6666.github.io/kuma_blog/
 
