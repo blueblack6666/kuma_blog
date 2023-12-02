@@ -1,0 +1,32 @@
+{
+  "name": "くまの投資ブログ - サイドFIREしたい",
+  "description": "投資ブログ",
+  "url": "https://blueblack6666.github.io/",
+  "author": {
+    "name": "くま",
+    "email": "author@site.com",
+    "twitterHandle": "author_handle"
+  },
+  "defaultSocialImage": "/images/default-social-image.png",
+  "headerLinks": [
+    {
+      "text": "Blog",
+      "url": "/blog",
+      "external": false
+    },
+    {
+      "text": "About",
+      "url": "/about",
+      "external": false
+    }
+  ],
+  "socialLinks": [],
+  "footerLinks": [
+    {
+      "text": "RSS",
+      "url": "/feed.xml",
+      "external": true
+    }
+  ],
+  "showFooterAttribution": true
+}
