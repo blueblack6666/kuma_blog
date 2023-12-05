@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>くまの投資ブログ - サイドFIREしたい</title>
   <subtitle></subtitle>
-  <link href="https://blueblack6666.github.io//feed.xml" rel="self"/>
-  <link href="https://blueblack6666.github.io//"/>
+  <link href="https://blueblack6666.github.io/kuma_blog/feed.xml" rel="self"/>
+  <link href="https://blueblack6666.github.io/kuma_blog/"/>
   
     <updated>2023-12-02T00:00:00Z</updated>
   
-  <id>https://blueblack6666.github.io/</id>
+  <id>https://blueblack6666.github.io/kuma_blog</id>
   <author>
     <name>くま</name>
     <email>author@site.com</email>
@@ -16,9 +16,9 @@
     
     <entry>
       <title>新NISAまであと1か月、最安日本株式ファンドが登場！</title>
-      <link href="https://blueblack6666.github.io//posts/posts2023-001/"/>
+      <link href="https://blueblack6666.github.io/kuma_blog/posts/posts2023-001/"/>
       <updated>2023-11-25T00:00:00Z</updated>
-      <id>https://blueblack6666.github.io//posts/posts2023-001/</id>
+      <id>https://blueblack6666.github.io/kuma_blog/posts/posts2023-001/</id>
       <content type="html">
         <![CDATA[
       <p>こんにちわ、くまです。</p>
@@ -37,9 +37,9 @@
     
     <entry>
       <title>1800万円分、新NISA戦略</title>
-      <link href="https://blueblack6666.github.io//posts/posts2023-002/"/>
+      <link href="https://blueblack6666.github.io/kuma_blog/posts/posts2023-002/"/>
       <updated>2023-11-29T00:00:00Z</updated>
-      <id>https://blueblack6666.github.io//posts/posts2023-002/</id>
+      <id>https://blueblack6666.github.io/kuma_blog/posts/posts2023-002/</id>
       <content type="html">
         <![CDATA[
       <p>こんにちわ、くまです。</p>
@@ -67,9 +67,9 @@
     
     <entry>
       <title>SBI証券ゼロ革命第三弾 米ドル/円手数料無料化！</title>
-      <link href="https://blueblack6666.github.io//posts/posts2023-003/"/>
+      <link href="https://blueblack6666.github.io/kuma_blog/posts/posts2023-003/"/>
       <updated>2023-12-02T00:00:00Z</updated>
-      <id>https://blueblack6666.github.io//posts/posts2023-003/</id>
+      <id>https://blueblack6666.github.io/kuma_blog/posts/posts2023-003/</id>
       <content type="html">
         <![CDATA[
       <p>こんにちわ、くまです。</p>

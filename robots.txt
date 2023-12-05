@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://blueblack6666.github.io//sitemap.xml
+Sitemap: https://blueblack6666.github.io/kuma_blog/sitemap.xml
