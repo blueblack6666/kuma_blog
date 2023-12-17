@@ -3,8 +3,9 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="canonical" href={{ site.url + page.url }}>
-    {% bundledcss %}
+    <link rel="canonical" href="{{ site.url + page.url }}">
+    <link rel="alternate" type="application/atom+xml" href="{{ site.url }}/feed.xml" title="Atom" />
+    {% bundledcss %}\
 
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap" rel="stylesheet">
