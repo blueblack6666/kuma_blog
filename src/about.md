@@ -2,7 +2,7 @@
 title: About
 layout: about.njk
 name: くまの投資ブログ
-image: '/images/me.png'
+image: '/images/me.png?20231217'
 ---
 
 このブログは投資ブログです。
