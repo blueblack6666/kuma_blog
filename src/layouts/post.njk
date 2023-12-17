@@ -16,7 +16,7 @@ layout: base.njk
 
   <main class="post__content">
     {%- if thumbnail %}
-      <img src="{{thumbnail}}" />
+      <img src="{{thumbnail}}" class="thumbnail"/>
 
     {% endif %}
     {{ content | safe }}

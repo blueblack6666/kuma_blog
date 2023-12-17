@@ -21,6 +21,16 @@
   word-wrap: break-word;
 }
 
+.post__content img {
+  object-fit: scale-down;
+  width: auto;
+}
+
+.post__content img.thumbnail {
+  object-fit: contain;
+  width: 100%;
+}
+
 .post__aside {
   margin-top: 2rem;
 }
