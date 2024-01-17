@@ -12,6 +12,9 @@ layout: base.njk
       <span> | </span>
       <span>{{ content | readingTime }} read</span>
     </div>
+    {%- if pr %}
+    <div class="post__pr">本コンテンツにはプロモーションを含みます</div>
+    {%- endif %}
   </header>
 
   <main class="post__content">
