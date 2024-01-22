@@ -5,7 +5,7 @@
   "author": {
     "name": "くま",
     "email": "author@site.com",
-    "twitterHandle": "author_handle"
+    "twitterHandle": "kuma_blog"
   },
   "defaultSocialImage": "/images/default-social-image.png",
   "headerLinks": [
@@ -20,7 +20,13 @@
       "external": false
     }
   ],
-  "socialLinks": [],
+  "socialLinks": [
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/kumablog339884",
+      "external": true
+    }    
+  ],
   "footerLinks": [
     {
       "text": "RSS",
