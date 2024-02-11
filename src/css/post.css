@@ -72,3 +72,9 @@
   position: absolute;
   margin-top: 0.5rem;
 }
+.post__internal-link img {
+  display: inline-block;
+  max-width: 25%;
+  filter: saturate(70%);
+  box-shadow: 3px 3px 3px #669;
+}
