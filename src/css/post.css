@@ -78,3 +78,11 @@
   filter: saturate(70%);
   box-shadow: 3px 3px 3px #669;
 }
+.post__financial-calendar {
+  font-size: 0.8rem;
+}
+
+.post__financial-calendar th {
+  font-size: 1rem;
+  background: #eee
+}
