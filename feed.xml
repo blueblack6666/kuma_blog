@@ -5,7 +5,7 @@
   <link href="https://blueblack6666.github.io/kuma_blog/feed.xml" rel="self"/>
   <link href="https://blueblack6666.github.io/kuma_blog/"/>
   
-    <updated>2024-03-17T00:00:00Z</updated>
+    <updated>2024-03-20T00:00:00Z</updated>
   
   <id>https://blueblack6666.github.io/kuma_blog</id>
   <author>
@@ -1958,6 +1958,87 @@ Youtube動画や資料内では銘柄追加の効果や今後の方針などに�
 <img border="0" width="200" height="200" alt="" src="https://www21.a8.net/svt/bgt?aid=240125306552&wid=001&eno=01&mid=s00000008903001068000&mc=1"></a>
 <img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=3YYPVE+94NAPE+1WP2+6CWQP" alt="">
 <p><a href="https://blog.with2.net/link/?id=2111205&cid=1532" title="為替・FXランキング"><img alt="為替・FXランキング" width="110" height="31" src="https://blog.with2.net/img/banner/c/banner_1/br_c_1532_1.gif"></a></p>
+
+    ]]>
+      </content>
+    </entry>
+  
+    
+    <entry>
+      <title>SBI日本高配当株式（分配）ファンド（年4回決算型）2月の月次レポートを見る</title>
+      <link href="https://blueblack6666.github.io/kuma_blog/posts/posts2024-017/"/>
+      <updated>2024-03-20T00:00:00Z</updated>
+      <id>https://blueblack6666.github.io/kuma_blog/posts/posts2024-017/</id>
+      <content type="html">
+        <![CDATA[
+      <style>
+    .table-col2 {
+        display: flex;
+        flex-wrap: wrap;
+        border-style: solid;
+        border-width: 0 1px 1px 0;
+        border-color: #bbb;
+        margin-top: 1rem;
+        width: 300px;
+    }
+    .table-col2 div {
+        border-style: solid;
+        border-width: 1px 0 0 1px;
+        border-color: #bbb;
+        padding: 5px 10px;
+    }
+    .table-col2 div:nth-child(odd) {
+        width: 150px;
+        background: #f0f0f0;
+    }
+    .table-col2 div:nth-child(even) {
+        width: calc(100% - 150px);
+        text-align: right;
+    }
+    .table-col2.fund-op {
+        width: 700px;
+    }
+    .table-col2.fund-op div {
+        text-align: left;
+    }    
+</style>
+<p>こんにちわ、くまです。<br/>
+SBI日本高配当株式（分配）ファンド（年4回決算型）の月次レポート（2024年2月29日基準）が公開されていたので見ていきたいと思います。</p>
+<p>レポートはSBI証券のHPから確認できます。</p>
+<p><img src="/images/b2024-017-01.png" alt=""></p>
+<p>月次レポートなので毎月公開されるのだとは思うのですが、更新タイミングは調べてみたもののわかりませんでした。<br/>
+どこに書いているんだろうか。誰か教えて。</p>
+<p>それはさておき内容の方を見ていきたいと思います。</p>
+<h3>運用実績</h3>
+<div class="table-col2">
+    <div>基準価格</div><div>11,634円</div>
+    <div>前月末比</div><div>+558円</div>
+</div>
+<p>基準価格は順調に右肩上がり。<br/>
+このまま上がっていてほしいところです。</p>
+<h3>ポートフォリオの状況</h3>
+<div class="table-col2">
+    <div>配当利回り</div><div>3.98%</div>
+    <div>PBR</div><div>1.27倍</div>
+    <div>ROE</div><div>10.44%</div>
+</div>
+<p>募集時の想定配当利回りは4.5%なので、配当利回りは想定よりは低くなっています。<br/>
+レポートの説明によると配当利回りの低下は株価の上昇によるものだそう。</p>
+<h3>ファンド運用状況</h3>
+<div class="table-col2 fund-op">
+    <div>新規買付停止</div><div>日東工業、カヤバ、サンゲツ、フジクラ、ピジョン等</div>
+    <div>保有比率減</div><div>フジクラ、ピジョン等</div>
+    <div>新規買付開始</div><div>三井住友トラスト・ホールディングス、セブン銀行</div>
+    <div>新規買付増額</div><div>日本たばこ産業、ソフトバンク、日本製鉄等</div>
+</div>
+<p>組入銘柄数が35まで増えてます。<br/>
+個人的にソフトバンクはあまり好きではないので、割合増えているはちょっと微妙。</p>
+<p>以上、ざっと月次レポートをみてきました。<br/>
+正直くまはしっかり内容を咀嚼できていないです。<br/></p>
+<p>続けていればそのうち理解が深まってくるだろうと期待をしつつ、今後も新しいレポートが公開されたら見ていきたいと思います。
+<br/>
+<br/></p>
+<p><a href="https://blog.with2.net/link/?id=2111205&cid=2009" title="投資信託ランキング"><img alt="投資信託ランキング" width="110" height="31" src="https://blog.with2.net/img/banner/c/banner_1/br_c_2009_1.gif"></a></p>
 
     ]]>
       </content>
