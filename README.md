@@ -39,4 +39,6 @@ npm run publish
 ## Githubページの確認
 
 https://blueblack6666.github.io/kuma_blog/
+　↓
+https://kumablog.blueblack6666.com/
 
