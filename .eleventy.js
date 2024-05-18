@@ -28,12 +28,12 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(readingTime);
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(syntaxHighlight);
-  if(isProd) {
-    // サブディレクトリをルートにする対応
-    eleventyConfig.addPlugin(EleventyHtmlBasePlugin, {
-      baseHref: "/kuma_blog/"
-    });
-  }
+  // if(isProd) {
+  //   // サブディレクトリをルートにする対応
+  //   eleventyConfig.addPlugin(EleventyHtmlBasePlugin, {
+  //     baseHref: "/kuma_blog/"
+  //   });
+  // }
 
   // setup mermaid markdown highlighter
   const highlighter = eleventyConfig.markdownHighlighter;
@@ -46,6 +46,7 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.setDataDeepMerge(true);
   eleventyConfig.addPassthroughCopy({ 'src/images': 'images' });
+  eleventyConfig.addPassthroughCopy({ 'src/CNAME': 'CNAME' });  
   eleventyConfig.setBrowserSyncConfig({ files: [manifestPath] });
 
   eleventyConfig.addShortcode('bundledcss', function () {

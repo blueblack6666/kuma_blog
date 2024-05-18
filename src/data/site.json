@@ -1,10 +1,10 @@
 {
-  "name": "くまの投資ブログ",
-  "description": "投資ブログ",
+  "name": "くまのお金ブログ",
+  "description": "投資をはじめとしたお金に関する話題を取り扱うブログです",
   "url": "https://kumablog.blueblack6666.com",
   "author": {
     "name": "くま",
-    "email": "author@site.com",
+    "email": "",
     "twitterHandle": "kuma_blog"
   },
   "defaultSocialImage": "/images/default-social-image.png",

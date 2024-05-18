@@ -42,3 +42,5 @@ https://blueblack6666.github.io/kuma_blog/
 　↓
 https://kumablog.blueblack6666.com/
 
+Githubページのカスタムドメイン対応で参考にしたサイト
+https://www.konosumi.net/entry/2018/07/01/190200
