@@ -5,7 +5,7 @@
   <link href="https://kumablog.blueblack6666.com/feed.xml" rel="self"/>
   <link href="https://kumablog.blueblack6666.com/"/>
   
-    <updated>2024-05-19T00:00:00Z</updated>
+    <updated>2024-05-20T00:00:00Z</updated>
   
   <id>https://kumablog.blueblack6666.com</id>
   <author>
@@ -4078,6 +4078,85 @@ CPI直前の高値156.777円から60%ちょっと戻したところ、155.675円
 <img border="0" width="125" height="125" alt="" src="https://www23.a8.net/svt/bgt?aid=240125306552&wid=001&eno=01&mid=s00000008903001014000&mc=1"></a>
 <img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=3YYPVE+94NAPE+1WP2+61C2P" alt="">
 <p><a href="https://blog.with2.net/link/?id=2111205&cid=1532" title="為替・FXランキング"><img alt="為替・FXランキング" width="110" height="31" src="https://blog.with2.net/img/banner/c/banner_1/br_c_1532_1.gif"></a></p>
+
+    ]]>
+      </content>
+    </entry>
+  
+    
+    <entry>
+      <title>SBI日本高配当株式（分配）ファンド（年4回決算型）4月の月次レポートを見る</title>
+      <link href="https://kumablog.blueblack6666.com/posts/posts2024-029/"/>
+      <updated>2024-05-20T00:00:00Z</updated>
+      <id>https://kumablog.blueblack6666.com/posts/posts2024-029/</id>
+      <content type="html">
+        <![CDATA[
+      <p>『SBI日本高配当株式（分配）ファンド（年４回決算型）』の4月の月次レポートが公開されていましたので、いつも通り見ていきたいと思います。</p>
+<p>月次レポート
+<a href="https://www.sbiam.co.jp/fund/pdf/8931123C_japanhighdiveq_dis4_mr_2404.pdf">https://www.sbiam.co.jp/fund/pdf/8931123C_japanhighdiveq_dis4_mr_2404.pdf</a></p>
+<h3>運用実績</h3>
+<div class="table-col2">
+    <div>基準価格</div><div>11,910円</div>
+    <div>前月末比</div><div>▲95円</div>
+</div>
+<p>４月は日本の株式市場の調子があまりよくなかったこともあり、やや下げ。
+とはいえ4月中に落ち込んでいた分はほぼ戻しているので悪くはないのかなといった印象です。</p>
+<h3>ポートフォリオの状況</h3>
+<div class="table-col2">
+    <div>配当利回り</div><div>4.09%　↑</div>
+    <div>PBR</div><div>1.30倍　↓</div>
+    <div>ROE</div><div>10.90%　↑</div>
+</div>
+<p>多少の増減はあるものの、それほど大きくは変わっていないです。<br/>
+PBRは適正範囲内、ROEも良好です。</p>
+<h3>ファンド運用状況</h3>
+<div class="table-col2 fund-op">
+    <div>売却</div><div>アステラス製薬</div>
+    <div>追加</div><div>ジャックス、積水ハウス、エクシオグループ、TOYO TIRE、オカムラ、アイカ工業、エア・ウォーター、豊田通商、ショーボンド・ホールディングス、エービーシー・マート、シップヘルスケア・ホールディングス、東京建物、メイテックグループホールディングス など</div>
+</div>
+<p>先月組み入れられたアステラス製薬が業績下方修正のため早くも売却された模様です。<br/>
+良くない銘柄が組み入れられてしまった点は残念ですが、その後の判断が早いのはしっかり運用してくれているのだなという好印象を持ちました。</p>
+<p>今月は銘柄追加も多く、当初30だった銘柄数も50に増えました。<br/>
+今回は高配当銘柄だけでなく、増配銘柄も組入れられたとのことで今後の収益の安定化にも寄与しそうです。
+<br/>
+<br/>
+以上、『SBI日本高配当株式（分配）ファンド（年４回決算型）』の分配金と4月の月次レポートについての確認でした。</p>
+<p>月次レポートについては来月も見ていく予定です。よろしくお願いします。</p>
+<br/>
+<br/>
+<hr/>
+<p><a href="https://blog.with2.net/link/?id=2111205&cid=2009" title="投資信託ランキング"><img alt="投資信託ランキング" width="110" height="31" src="https://blog.with2.net/img/banner/c/banner_1/br_c_2009_1.gif"></a></p>
+<style>
+    .table-col2 {
+        display: flex;
+        flex-wrap: wrap;
+        border-style: solid;
+        border-width: 0 1px 1px 0;
+        border-color: #bbb;
+        margin-top: 1rem;
+        width: 300px;
+    }
+    .table-col2 div {
+        border-style: solid;
+        border-width: 1px 0 0 1px;
+        border-color: #bbb;
+        padding: 5px 10px;
+    }
+    .table-col2 div:nth-child(odd) {
+        width: 150px;
+        background: #f0f0f0;
+    }
+    .table-col2 div:nth-child(even) {
+        width: calc(100% - 150px);
+        text-align: right;
+    }
+    .table-col2.fund-op {
+        width: 700px;
+    }
+    .table-col2.fund-op div {
+        text-align: left;
+    }    
+</style>
 
     ]]>
       </content>
