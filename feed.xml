@@ -5,7 +5,7 @@
   <link href="https://kumablog.blueblack6666.com/feed.xml" rel="self"/>
   <link href="https://kumablog.blueblack6666.com/"/>
   
-    <updated>2024-05-21T00:00:00Z</updated>
+    <updated>2024-05-22T00:00:00Z</updated>
   
   <id>https://kumablog.blueblack6666.com</id>
   <author>
@@ -4197,6 +4197,55 @@ PBRは適正範囲内、ROEも良好です。</p>
 <p>あと、気になるところといえば審査がどうなるのか。<br/>
 調べてみたところ、今は追加で審査の申請は不要の様でした。<br/>
 （一度審査に通っていれば問題ない？）</p>
+<br/>
+<br/>
+<hr/>
+<p><a href="https://blog.with2.net/link/?id=2111205&cid=5493" title="FIRE（早期リタイア）ランキング"><img alt="FIRE（早期リタイア）ランキング" width="110" height="31" src="https://blog.with2.net/img/banner/c/banner_1/br_c_5493_1.gif"></a></p>
+
+    ]]>
+      </content>
+    </entry>
+  
+    
+    <entry>
+      <title>Amazonの画像をサイトに貼るときの禁止行為</title>
+      <link href="https://kumablog.blueblack6666.com/posts/posts2024-031/"/>
+      <updated>2024-05-22T00:00:00Z</updated>
+      <id>https://kumablog.blueblack6666.com/posts/posts2024-031/</id>
+      <content type="html">
+        <![CDATA[
+      <p>くまです。</p>
+<p>昨日に引き続き、Amazonのアフィリエイト関連の投稿です。</p>
+<p>Amazonのアフィリエイトリンクを作成する方法について調べていたのですが、どうやら2024年からアソシエイトツールバーで商品画像付きのリンクを作成することができなくなった模様。</p>
+<p>自分でも実際試してみて、テキストリンクしか作成できなくなっていることが確認できました。</p>
+<p>では、画像付きのリンクを作るにはどうすればよいのか？</p>
+<p>商品ページの画像のURLを直指定して使って良いらしい。<br/>
+ただし、利用にあたっては次の禁止事項があるので注意が必要です。</p>
+<ul>
+<li>画像加工する（画像のサイズ変更は縦横比維持ならOK）</li>
+<li>ダウンロードした画像をサーバーにアップロードして使う</li>
+<li>Amazon.co.jpでキャプチャした画像を使用する</li>
+</ul>
+<p>最後のキャプチャ画像についてはAmazonのサイト上のすべてが対象なので、お気を付けて。<br/>
+自分も手順説明の投稿を作ったときにやらかしかけました。</p>
+<p>違反すると最悪アカウント閉鎖になるようなのでしっかり気を付けておきたいところです。</p>
+<p>最後にそれっぽく、Amazonの商品ページにリンクするサンプルコードを書いてみました。</p>
+<p>■ サンプル（コード）</p>
+<pre class="language-html"><code class="language-html"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>a</span> <span class="token attr-name">class</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>amzn<span class="token punctuation">"</span></span> <span class="token attr-name">href</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>https://amzn.to/3WRwVuF<span class="token punctuation">"</span></span><span class="token punctuation">></span></span><br>    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>img</span> <span class="token attr-name">src</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>https://m.media-amazon.com/images/I/61pMLv33yJL._AC_UL640_FMwebp_QL65_.jpg<span class="token punctuation">"</span></span><span class="token punctuation">></span></span><br>    パールライス 秋田県産 白米 サキホコレ 2kg 令和5年産<br><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>a</span><span class="token punctuation">></span></span><br><br><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>style</span><span class="token punctuation">></span></span><span class="token style"><span class="token language-css"><br><span class="token selector">.amzn</span> <span class="token punctuation">{</span> <br>    <span class="token property">width</span><span class="token punctuation">:</span> 100px<span class="token punctuation">;</span> <span class="token property">display</span><span class="token punctuation">:</span> inline-block<span class="token punctuation">;</span> <span class="token property">word-break</span><span class="token punctuation">:</span> break-all<span class="token punctuation">;</span> <span class="token property">font-size</span><span class="token punctuation">:</span> xx-small<span class="token punctuation">;</span><br>    <span class="token selector">img</span> <span class="token punctuation">{</span> <span class="token property">object-fit</span><span class="token punctuation">:</span> contain<span class="token punctuation">;</span> <span class="token property">width</span><span class="token punctuation">:</span> 100px<span class="token punctuation">;</span> <span class="token property">height</span><span class="token punctuation">:</span> 100px<span class="token punctuation">;</span> <span class="token punctuation">}</span><br><span class="token punctuation">}</span><br></span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>style</span><span class="token punctuation">></span></span></code></pre>
+<p>■ サンプル（表示）<br/>
+<a class="amzn" href="https://amzn.to/3WRwVuF">
+<img src="https://m.media-amazon.com/images/I/61pMLv33yJL._AC_UL640_FMwebp_QL65_.jpg">
+パールライス 秋田県産 白米 サキホコレ 2kg 令和5年産
+</a></p>
+<style>
+ul { margin-top: 1rem; margin-left: 1rem; }
+li { list-style-type: disc; }
+
+.amzn { 
+    width: 100px; display: inline-block; word-break: break-all; font-size: xx-small;
+    img { object-fit: contain; width: 100px; height: 100px; }
+}
+</style>
 <br/>
 <br/>
 <hr/>
