@@ -10,22 +10,22 @@
   "defaultSocialImage": "/images/default-social-image.png",
   "headerLinks": [
     {
-      "text": "Blog",
+      "text": "BLOG",
       "url": "/blog",
       "external": false
     },
     {
-      "text": "About",
+      "text": "ABOUT",
       "url": "/about",
       "external": false
-    }
-  ],
-  "socialLinks": [
+    },
     {
-      "text": "Twitter",
+      "text": "X (Twitter)",
       "url": "https://twitter.com/kumablog339884",
       "external": true
-    }    
+    }   
+  ],
+  "socialLinks": [  
   ],
   "footerLinks": [
     {
