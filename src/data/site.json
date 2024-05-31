@@ -29,6 +29,11 @@
   ],
   "footerLinks": [
     {
+      "text": "X (Twitter)",
+      "url": "https://twitter.com/kumablog339884",
+      "external": true
+    },
+    {
       "text": "RSS",
       "url": "/feed.xml",
       "external": true
