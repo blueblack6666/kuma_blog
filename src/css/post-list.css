@@ -11,6 +11,7 @@
 
 .tags a {
   text-decoration: none;
+  text-wrap: nowrap;
   color: rgb(117, 117, 117);
 }
 

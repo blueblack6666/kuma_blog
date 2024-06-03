@@ -1,6 +1,7 @@
 {% for tag in collections.tagList %}
   {% set tagUrl %}/tags/{{ tag }}/{% endset %}
+  {% set tagWithN %}  {{ tag }}({{collections[tag] | length}}){% endset %}
 
-  <a href="{{ tagUrl | url }}" class="post-tag">#{{ tag }}</a>
+  <a href="{{ tagUrl | url }}" class="post-tag">#{{ tagWithN }}</a>
 
 {% endfor %}
