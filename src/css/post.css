@@ -86,6 +86,9 @@
   font-size: 1rem;
   background: #eee
 }
+.post__financial-calendar th:first-child { width: 70px; }
+.post__financial-calendar th:nth-child(4) { width: 65px; }
+
 
 /* h2 header design */
 .post h2 {
