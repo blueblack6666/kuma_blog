@@ -5,7 +5,7 @@
   <link href="https://kumablog.blueblack6666.com/feed.xml" rel="self"/>
   <link href="https://kumablog.blueblack6666.com/"/>
   
-    <updated>2024-06-09T00:00:00Z</updated>
+    <updated>2024-06-10T00:00:00Z</updated>
   
   <id>https://kumablog.blueblack6666.com</id>
   <author>
@@ -5781,6 +5781,92 @@ ol { margin-top: 1rem; margin-left: 1rem; }
     img { width: 220px; }
 }
 </style>
+    ]]>
+      </content>
+    </entry>
+  
+    
+    <entry>
+      <title>SBI日本高配当株式（分配）ファンド（年4回決算型）5月の月次レポートを見る</title>
+      <link href="https://kumablog.blueblack6666.com/posts/posts2024-043/"/>
+      <updated>2024-06-10T00:00:00Z</updated>
+      <id>https://kumablog.blueblack6666.com/posts/posts2024-043/</id>
+      <content type="html">
+        <![CDATA[
+      <p>『SBI日本高配当株式（分配）ファンド（年４回決算型）』の5月の月次レポートが公開されていましたので、いつも通り見ていきたいと思います。</p>
+<p>月次レポート
+<a href="https://www.sbiam.co.jp/fund/pdf/8931123C_japanhighdiveq_dis4_mr_2405.pdf">https://www.sbiam.co.jp/fund/pdf/8931123C_japanhighdiveq_dis4_mr_2405.pdf</a></p>
+<h3>運用実績</h3>
+<div class="table-col2">
+    <div>基準価格</div><div>11,852円</div>
+    <div>前月末比</div><div>▲58円</div>
+</div>
+<p>5月の国内株式市場は小幅上昇でしたが、日本高配当は小幅の下降でやや振るわず。<br/>
+基準価格に関してはレンジが続いているので、もう少し頑張ってほしい気持ちはあります。<br/>
+とはいえ今の市場は先行き含めて微妙なので、しばらくは我慢の時間が続きそうです。</p>
+<h3>ポートフォリオの状況</h3>
+<div class="table-col2">
+    <div>配当利回り</div><div>3.73%　↓</div>
+    <div>PBR</div><div>1.39倍　↑</div>
+    <div>ROE</div><div>11.26%　↑</div>
+</div>
+<p>それぞれの数値についてさらっと見ていきます。</p>
+<p>配当利回りは前回の4.09%から0.36%の減少。<br/>
+5月は銘柄の入れ替えが多く、その影響もあって配当利回りが低下している模様です。</p>
+<p>PBRは前回の1.30倍から1.39倍へ0.09倍割高方向へ増加。<br/>
+PBRは1倍～1.5倍程度が適正とされているので、問題はなさそう。</p>
+<p>ROEは前回の10.90%から11.26%へ0.36%増加。<br/>
+経営効率の良さを表すROEは高いほど良いのでこちらは良好な結果でした。</p>
+<h3>ファンド運用状況</h3>
+<div class="table-col2 fund-op">
+    <div>売却</div><div>セブン銀行、日東工業、三ツ星ベルト、AREホールディングス、三井住友トラスト・ホールディングス、MIXI</div>
+    <div>追加</div><div>三井住友フィナンシャルグループ、三菱UFJフィナンシャル・グループ、第一生命ホールディングス、ジーエス・ユアサコーポレーション、三菱瓦斯化学工業、積水化学工業、コクヨ、キャノン・マーケティング、野村不動産ホールディングス、三菱商事、トヨタ自動車、東京エレクトロン</div>
+</div>
+<p>今月は先月よりもさらに銘柄の入れ替えが激しいです。<br/>
+増配系で上昇期待のある銘柄の追加を含む銘柄数の増加、分散を強化していく方針とのこと。個人的には歓迎です。<br/></p>
+<p>些細なことなのですが、p2の記載「組入れ銘柄数50」が少し気になりました。<br/>
+先月のレポートでも組み入れ銘柄数50だったので、増減考えると数が合わないような。。。<br/>
+単純な記載ミスでしょうか？まぁ、重箱の隅をつついても仕方ないということで。</p>
+<br/>
+<br/>
+以上、『SBI日本高配当株式（分配）ファンド（年４回決算型）』の5月の月次レポートについての確認でした。
+<p>月次レポートについては来月も見ていく予定です。よろしくお願いします。</p>
+<br/>
+<br/>
+<hr/>
+<p><a href="https://blog.with2.net/link/?id=2111205&cid=2009" title="投資信託ランキング"><img alt="投資信託ランキング" width="110" height="31" src="https://blog.with2.net/img/banner/c/banner_1/br_c_2009_1.gif"></a></p>
+<style>
+    .table-col2 {
+        display: flex;
+        flex-wrap: wrap;
+        border-style: solid;
+        border-width: 0 1px 1px 0;
+        border-color: #bbb;
+        margin-top: 1rem;
+        width: 300px;
+    }
+    .table-col2 div {
+        border-style: solid;
+        border-width: 1px 0 0 1px;
+        border-color: #bbb;
+        padding: 5px 10px;
+    }
+    .table-col2 div:nth-child(odd) {
+        width: 150px;
+        background: #f0f0f0;
+    }
+    .table-col2 div:nth-child(even) {
+        width: calc(100% - 150px);
+        text-align: right;
+    }
+    .table-col2.fund-op {
+        width: 700px;
+    }
+    .table-col2.fund-op div {
+        text-align: left;
+    }    
+</style>
+
     ]]>
       </content>
     </entry>
