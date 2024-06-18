@@ -1,22 +1,21 @@
 ---
 pagination:
-  data: collections
+  data: collections.pagedTags
   size: 1
   alias: tag
-  filter:
-    - all
-    - nav
-    - post
-    - posts
-    - tagList
-  addAllPagesToCollections: true
 layout: base.njk
-permalink: /tags/{{ tag }}/
+permalink: /tags/{{ tag.tagName }}/{{ (tag.pageNumber + 1) + "/" if tag.pageNumber }}/
 eleventyComputed:
-  title: "{{ tag }}"
-  description: "All posts tagged “{{ tag }}”"
+  title: "{{ tag.tagName }}"
+  description: "All posts tagged “{{ tag.tagName }}” page {{ tag.pageNumber + 1 }}/{{ tag.pageSize }}"
 ---
-<h1>{{ "#" + tag }}</h1>
+<h1>{{ "#" + tag.tagName }}</h1>
 
-{% set postslist = collections[tag] %}
+{% set postslist = tag.templateObjets %}
 {% include "posts-list.njk" %}
+
+<nav class="post-list__pagination">
+  <a {% if tag.previous %}href="{{ tag.previous }}" {% endif %}>&lt;</a>
+  {{ tag.pageNumber + 1 }}/{{ tag.pageSize }}
+  <a {% if tag.next %}href="{{ tag.next }}" {% endif %}>&gt;</a>
+</nav>

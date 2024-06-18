@@ -33,7 +33,7 @@ layout: base
     {% include "tags-list.njk" %}
   </div>
 
-  {% set postslist = collections.posts | head(-10) %}
+  {% set postslist = collections.posts | head(-10) | reverse %}
   {% include "posts-list.njk" %}
 
 </section>

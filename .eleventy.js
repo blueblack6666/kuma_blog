@@ -6,6 +6,7 @@ const htmlmin = require('html-minifier')
 const fs = require('fs');
 const path = require('path');
 const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
+const layeringCollection = require("./src/includes/pagedTags");
 
 const isDev = process.env.ENVELEVENTY_ENV === 'development';
 const isProd = process.env.ENVELEVENTY_ENV === 'production'
@@ -115,6 +116,11 @@ module.exports = function (eleventyConfig) {
 
     return [...tagSet];
   });
+
+  eleventyConfig.addCollection('pagedTags', collection => layeringCollection(collection, {
+    collectionAPI: collection.getFilteredByGlob('src/posts/*.md'),
+    size: 10
+  }));  
 
   eleventyConfig.addFilter('pageTags', (tags) => {
     const generalTags = ['all', 'nav', 'post', 'posts'];

@@ -36,9 +36,6 @@
   border-top: 1px solid rgba(230, 230, 230, 1);
 }
 
-.post-list__item:last-child {
-  border-bottom: 1px solid rgba(230, 230, 230, 1);
-}
 
 .post-list__title {
   font-size: var(--text-2xl);
@@ -111,4 +108,33 @@
   font-size: var(--text-lg);
   text-decoration: underline;
   color: currentColor;
+}
+
+.post-list__pagination {
+  display: flex; 
+  align-items: center;
+  justify-content: center;
+  margin-top: 1rem;
+
+  a {
+    border-radius: 50%;
+    border-style: solid;
+    border-width: 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    color: rgb(117, 117, 117);
+    text-decoration: none;
+    padding-bottom: 2px;
+    margin: auto 1.5rem;
+
+    &[href]:hover {
+      color: var(--accent);;
+    }
+    &:not([href]) {
+      color: rgb(200, 200, 200);
+    }
+  }
 }

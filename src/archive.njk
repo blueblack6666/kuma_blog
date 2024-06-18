@@ -1,6 +1,11 @@
 --- 
+pagination:
+  data: collections.posts
+  size: 10
+  alias: postslist
+  reverse: true
 layout: base.njk 
-permalink: /blog/ 
+permalink: /blog/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1 }}/{% endif %}
 ---
 
 <h1>すべての投稿</h1>
@@ -9,5 +14,10 @@ permalink: /blog/
   {% include "tags-list.njk" %}
 </div>
 
-{% set postslist = collections.posts %}
 {% include "posts-list.njk" %}
+
+<nav class="post-list__pagination">
+  <a {% if pagination.href.previous %}href="{{ pagination.href.previous }}" {% endif %}>&lt;</a>
+  {{ pagination.pageNumber + 1 }}/{{ pagination.pages.length }}
+  <a {% if pagination.href.next %}href="{{ pagination.href.next }}" {% endif %}>&gt;</a>
+</nav>
