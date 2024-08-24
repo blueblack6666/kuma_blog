@@ -11,12 +11,12 @@
   "headerLinks": [
     {
       "text": "すべての投稿",
-      "url": "/blog",
+      "url": "/blog/",
       "external": false
     },
     {
       "text": "このブログについて",
-      "url": "/about",
+      "url": "/about/",
       "external": false
     },
     {
