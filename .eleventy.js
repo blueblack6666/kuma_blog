@@ -5,7 +5,6 @@ const syntaxHighlight = require('@11ty/eleventy-plugin-syntaxhighlight');
 const htmlmin = require('html-minifier')
 const fs = require('fs');
 const path = require('path');
-const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
 const layeringCollection = require("./src/includes/pagedTags");
 
 const isDev = process.env.ENVELEVENTY_ENV === 'development';
@@ -24,6 +23,10 @@ const manifest = isDev
       'main.css': '/assets/main.css',
     }
   : JSON.parse(fs.readFileSync(manifestPath, { encoding: 'utf8' }));
+
+module.exports = async function() {
+  const {EleventyRenderPlugin, EleventyI18nPlugin, EleventyHtmlBasePlugin} = await import("@11ty/eleventy");
+}
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(readingTime);
