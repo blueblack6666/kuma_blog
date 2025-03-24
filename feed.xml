@@ -5,7 +5,7 @@
   <link href="https://kumablog.blueblack6666.com/feed.xml" rel="self"/>
   <link href="https://kumablog.blueblack6666.com/"/>
   
-    <updated>2025-03-23T00:00:00Z</updated>
+    <updated>2025-03-24T00:00:00Z</updated>
   
   <id>https://kumablog.blueblack6666.com</id>
   <author>
@@ -11183,6 +11183,47 @@ FOMCには注目していきたいです。</p>
     width: 100px; display: inline-block; word-break: break-all; text-align: center; margin-right: 30px;
     img { object-fit: contain; width: 100%; height: 100%; }
 }
+</style>
+    ]]>
+      </content>
+    </entry>
+  
+    
+    <entry>
+      <title>証券会社のセキュリティ問題……怖い</title>
+      <link href="https://kumablog.blueblack6666.com/posts/posts2025-019/"/>
+      <updated>2025-03-24T00:00:00Z</updated>
+      <id>https://kumablog.blueblack6666.com/posts/posts2025-019/</id>
+      <content type="html">
+        <![CDATA[
+      <h2>証券会社のセキュリティ問題……怖い</h2>
+<p>最近話題の楽天証券で勝手に株を売却、中国株を買われた事件。<br/>
+実はSBI証券でも同様のことが発生していたらしい。<br/>
+怖い。</p>
+<p>何が一番怖いって、今回の件で不正な取引などが行われた場合に証券会社による保証がされないことが明らかになったこと。<br/>
+現状、被害にあったら泣き寝入りするしかなさそう。<br/></p>
+<p>かといって、現状投資をしないという選択肢はあまり考えられないので、個人としてはやれる対策をするしかなさそうです。<br/></p>
+<p>ちなみにパスワード管理ソフトの類い使っていますか？<br/>
+リベ大の両学長も勧めているあれです。</p>
+<p>くまは金銭が絡むサイトではパスワード管理ソフトの類いは使っておらず、毎回手入力派。<br/>
+漏洩時になんの保証もされないその手のソフトやサービスを使うのは怖いというのが理由。</p>
+<p>さて、ここで問題です。最近の推奨されているパスワード管理方法って何だと思いますか？<br/></p>
+<p>なんと紙に書いて保存だそうです。<br/>
+以前はダメな方法の代表的なもののように言われていましたが一周回っておすすめの方法に返り咲いています。<br/></p>
+<p>結局ネットワークに繋がっているところだと、何かあったときに全世界に向けてあっというまに流出してしまう。<br/>
+反面、紙のメモの場合は物理的に侵入されないと盗まれることはない。<br/>
+仮にパスワードを盗まれたとしても、流出範囲が小さく済む可能性が高いからだそうな。</p>
+<p>興味深いです。</p>
+<p>以上、少し話はそれましたが証券会社のセキュリティ問題が怖いという話でした。</p>
+<br/>
+<hr/>
+<p><a href="https://blog.with2.net/link/?id=2111205&cid=5493" title="FIRE（早期リタイア）ランキング"><img alt="FIRE（早期リタイア）ランキング" width="110" height="31" src="https://blog.with2.net/img/banner/c/banner_1/br_c_5493_1.gif"></a></p>
+<p><a href="https://blogmura.com/ranking/in?p_cid=11188911" target="_blank"><img src="https://b.blogmura.com/88_31.gif" width="88" height="31" border="0" alt="ブログランキング・にほんブログ村へ" /></a></p>
+<style>
+.ac-icon { 
+    width: 300px; display: inline-block; word-break: break-all; text-align: center; margin-right: 30px;
+    img { object-fit: contain; width: 100%; height: 100%; }
+}    
 </style>
     ]]>
       </content>
