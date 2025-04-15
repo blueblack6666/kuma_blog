@@ -5,7 +5,7 @@
   <link href="https://kumablog.blueblack6666.com/feed.xml" rel="self"/>
   <link href="https://kumablog.blueblack6666.com/"/>
   
-    <updated>2025-04-13T00:00:00Z</updated>
+    <updated>2025-04-15T00:00:00Z</updated>
   
   <id>https://kumablog.blueblack6666.com</id>
   <author>
@@ -11952,6 +11952,52 @@ ol { margin-top: 1rem; margin-left: 2rem; list-style-position: outside; }
     width: 100px; display: inline-block; word-break: break-all; text-align: center; margin-right: 30px;
     img { object-fit: contain; width: 100%; height: 100%; }
 }
+</style>
+    ]]>
+      </content>
+    </entry>
+  
+    
+    <entry>
+      <title>ストックイラスト挑戦中</title>
+      <link href="https://kumablog.blueblack6666.com/posts/posts2025-034/"/>
+      <updated>2025-04-15T00:00:00Z</updated>
+      <id>https://kumablog.blueblack6666.com/posts/posts2025-034/</id>
+      <content type="html">
+        <![CDATA[
+      <h2>ストックイラスト挑戦中</h2>
+<p>以前にもブログのネタにしたことがあるストックイラスト、その後の話です。<br/></p>
+<p>3月中旬から新たな取り組みとして PIXTA への投稿を始めました。<br/>
+以前から投稿しているイラストACとの違いは、
+イラストACの場合はユーザが無料でイラストをダウンロードできるのに対してPIXTAは購入の形になるということ。<br/>
+この違いが単価に現れていて、1DL辺りの単価はPIXTAの方が高いです。</p>
+<p>あともう一つの大きな違いは著作権の扱い。<br/>
+イラストACの方はイラストACに著作権を譲渡する必要があるのだけれど、PIXTAの方はそれがありません。</p>
+<p>で、PIXTAはどうなのかというと今のところ収益ゼロです。<br/>
+PIXTAではベクターデータの登録もしてみようかと思い試していたのですが、審査が通らず苦戦していたというのが大きいです。<br/></p>
+<p>苦戦の原因は無料ソフトのInkscapeを使ってepsファイルを作っていたこと。<br/>
+よくよく調べてみたところ、そもそもPIXTAではIllustratorで作ったepsファイルしか受け付けられない仕様だったらしいことが分かり断念。<br/>
+無駄に労力を使ってしまいました。</p>
+<p>当初の目論見が外れてしまった結果、PIXTAの方はベクターデータなしで登録することに。<br/>
+ただ、投稿は始めたものの何を中心に登録していくかの方針が定まっておらず迷走中です。</p>
+<p>一方、前から投稿を続けているイラストACの方は、ゆっくりですがDL数は伸びてきています。
+月に500円分くらいだったDL数が、現在は900円分くらいにまでは伸びました。<br/></p>
+<p>とはいえ、伸び悩みを感じ始めているのも確か。</p>
+<p>基本的にニッチな範囲を充実させる戦略で投稿をすすめているのですが、これだけだと限界が見えてきたのかも。<br/>
+もう少し続けてみて状況に変化が無いようなら、工夫をしていく必要がありそうです。</p>
+<p>以上、ストックイラストについての話でした。</p>
+<br/>
+<hr/>
+<p><a href="https://blog.with2.net/link/?id=2111205&cid=5493" title="FIRE（早期リタイア）ランキング"><img alt="FIRE（早期リタイア）ランキング" width="110" height="31" src="https://blog.with2.net/img/banner/c/banner_1/br_c_5493_1.gif"></a></p>
+<p><a href="https://blogmura.com/ranking/in?p_cid=11188911" target="_blank"><img src="https://b.blogmura.com/88_31.gif" width="88" height="31" border="0" alt="ブログランキング・にほんブログ村へ" /></a></p>
+<style>
+.ac-icon { 
+    width: 300px; display: inline-block; word-break: break-all; text-align: center; margin-right: 30px;
+    img { object-fit: contain; width: 100%; height: 100%; }
+}
+
+ol { margin-top: 1rem; margin-left: 2rem; list-style-position: outside; }
+
 </style>
     ]]>
       </content>
