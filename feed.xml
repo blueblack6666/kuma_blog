@@ -5,7 +5,7 @@
   <link href="https://kumablog.blueblack6666.com/feed.xml" rel="self"/>
   <link href="https://kumablog.blueblack6666.com/"/>
   
-    <updated>2025-06-01T00:00:00Z</updated>
+    <updated>2025-06-03T00:00:00Z</updated>
   
   <id>https://kumablog.blueblack6666.com</id>
   <author>
@@ -12957,6 +12957,70 @@ Grokさんに意見を求めてみたところ影響があったとしてもま�
 .amzn { 
     width: 100px; display: inline-block; word-break: break-all; text-align: center; margin-right: 30px;
     img { object-fit: contain; width: 100%; height: 100%; }
+}
+</style>
+    ]]>
+      </content>
+    </entry>
+  
+    
+    <entry>
+      <title>SBIネット銀行がNTTに買収される話</title>
+      <link href="https://kumablog.blueblack6666.com/posts/posts2025-049/"/>
+      <updated>2025-06-03T00:00:00Z</updated>
+      <id>https://kumablog.blueblack6666.com/posts/posts2025-049/</id>
+      <content type="html">
+        <![CDATA[
+      <h2>SBIネット銀行がNTTに買収される話</h2>
+<p>ここ最近、発表されて話題のSBIネット銀行がNTTに買収される話。<br/></p>
+<p>SBIネット銀行のユーザーからはシステムが使いにくくなることを危惧する声が多いように見えます。<br/>
+自分もSBIネット銀行の口座を開設しているので多少は気になっています。<br/>
+とはいえ、メインで使っているわけでもないのでふーんという感じ。</p>
+<p>これでは話が終わってしまう。</p>
+<p>というわけで、NTTによる買収によってSBIネット銀行の使い勝手がどのように変わっていく可能性があるのか、Grokさんに聞いてみました。<br/>
+7個の可能性について挙げてくれたので見ていきたいと思います。</p>
+<h3>1. サービス統合とdアカウントへの依存</h3>
+<p>dアカウントが必須になったり、連携によってUIが改悪される可能性があるそうです。<br/>
+dアカウント必須とかはいらない人からすると余計なお世話感が凄そう。<br/>
+UIが分かりにくくなるのも地味に嫌かも。</p>
+<h3>2. 手数料体系や金利の変更</h3>
+<p>手数料が改悪される可能性があるそうです。<br/>
+SBIネット銀行を選んだ理由は手数料がメインなので、ここが改悪されると厳しい。<br/>
+もし仮に口座維持手数料とったるぜ！などと言われた日には解約待ったなしです。</p>
+<h3>3. SBI証券との連携の変化</h3>
+<p>自分は特に連携させていないから影響はないけれど、連携させている人はかなり多いと思うので何か改悪があったら影響は大きそう。</p>
+<h3>4. セキュリティやデータ管理への懸念</h3>
+<p>ドコモは過去にやらからしているのでセキュリティ面での懸念が考えられるそうです。<br/>
+これは素直に困るので、しっかりしてくれとしか言いようがないですね。</p>
+<h3>5. ブランドやサービス名の変更</h3>
+<p>「dバンク」や「ドコモ銀行」に名前がかわるかもとのこと。<br/>
+どうでも良すぎる、好きにしてくれって感じです。</p>
+<h3>6. 顧客対応やサポートの変化</h3>
+<p>ドコモショップなどでのサポート対応が行われるようになって、サポートの質が落ちる可能性があるとか。<br/>
+サポートは利用したことがないので影響はないけれど、質が落ちるのはむむむ。</p>
+<h3>7. 新サービスの追加と既存サービスの改変</h3>
+<p>ポイント関連で新サービスが追加され、その関連で既存サービスも改変がおこなわれるかもという話。<br/>
+ふわっとした話過ぎてなんとも。</p>
+<p>全7個のGrokさんの予想を見てきましたが、思っていたよりも影響は大きくなりそうな印象を受けました。<br/>
+さて、どうなることやら。</p>
+<p>以上、SBIネット銀行がNTTに買収される話についての雑談でした。</p>
+<br/>
+<hr/>
+<p><a href="https://blog.with2.net/link/?id=2111205&cid=5493" title="FIRE（早期リタイア）ランキング"><img alt="FIRE（早期リタイア）ランキング" width="110" height="31" src="https://blog.with2.net/img/banner/c/banner_1/br_c_5493_1.gif"></a></p>
+<p><a href="https://blogmura.com/ranking/in?p_cid=11188911" target="_blank"><img src="https://b.blogmura.com/88_31.gif" width="88" height="31" border="0" alt="ブログランキング・にほんブログ村へ" /></a></p>
+<style>
+.post__content {
+    .ac-icon { 
+        width: 300px; display: inline-block; word-break: break-all; text-align: center; margin-right: 30px;
+        img { object-fit: contain; width: 100%; height: 100%; }
+    }
+
+    ol { margin-top: 1rem; margin-left: 2rem; list-style-position: outside; }
+
+    ul { margin-top: 1rem; margin-left: 1rem; }
+    ul li { list-style-type: disc; }
+    ul li ul { margin-top: 0; }
+    ul li ul li { list-style-type: circle; }
 }
 </style>
     ]]>
