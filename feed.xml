@@ -5,7 +5,7 @@
   <link href="https://kumablog.blueblack6666.com/feed.xml" rel="self"/>
   <link href="https://kumablog.blueblack6666.com/"/>
   
-    <updated>2025-06-08T00:00:00Z</updated>
+    <updated>2025-06-10T00:00:00Z</updated>
   
   <id>https://kumablog.blueblack6666.com</id>
   <author>
@@ -13103,6 +13103,55 @@ ISM製造業景況指数も下振れ。</p>
 .amzn { 
     width: 100px; display: inline-block; word-break: break-all; text-align: center; margin-right: 30px;
     img { object-fit: contain; width: 100%; height: 100%; }
+}
+</style>
+    ]]>
+      </content>
+    </entry>
+  
+    
+    <entry>
+      <title>株主パスポートってなんぞ？</title>
+      <link href="https://kumablog.blueblack6666.com/posts/posts2025-051/"/>
+      <updated>2025-06-10T00:00:00Z</updated>
+      <id>https://kumablog.blueblack6666.com/posts/posts2025-051/</id>
+      <content type="html">
+        <![CDATA[
+      <h2>株主パスポートってなんぞ？</h2>
+<p>最近届いた個別株の議決権行使の案内の中に「株主パスポート」というアプリの案内が入っていました。</p>
+<p>なんだこれ？</p>
+<p>ということでちょっと調べてみました。</p>
+<p>＜できること＞</p>
+<ul>
+<li>議決権の行使</li>
+<li>アンケートに答えるなどでポイントがたまる</li>
+<li>たまったポイントは景品と交換可能</li>
+<li>現在キャンペーン中で抽選で10000ポイントが当たる</li>
+</ul>
+<p>どうやら、株のポイ活アプリのようなものらしい。<br/>
+無料で使えます。<br/>
+ただ、すべての会社が対応しているわけでは無い様で、それはそれで中途半端な印象。<br/></p>
+<p>試しに入れてみようかとしましたが、iOS17以上。<br/>
+インストール条件満たしていませんでした。残念。</p>
+<p>ちなみに、株主パスポートの公式サイトは <a href="https://www.smtb.jp/personal/procedure/agency/kabunushi-passport">こちら</a> です。</p>
+<p>以上、株主パスポートについて調べてみたという話でした。</p>
+<br/>
+<hr/>
+<p><a href="https://blog.with2.net/link/?id=2111205&cid=5493" title="FIRE（早期リタイア）ランキング"><img alt="FIRE（早期リタイア）ランキング" width="110" height="31" src="https://blog.with2.net/img/banner/c/banner_1/br_c_5493_1.gif"></a></p>
+<p><a href="https://blogmura.com/ranking/in?p_cid=11188911" target="_blank"><img src="https://b.blogmura.com/88_31.gif" width="88" height="31" border="0" alt="ブログランキング・にほんブログ村へ" /></a></p>
+<style>
+.post__content {
+    .ac-icon { 
+        width: 300px; display: inline-block; word-break: break-all; text-align: center; margin-right: 30px;
+        img { object-fit: contain; width: 100%; height: 100%; }
+    }
+
+    ol { margin-top: 1rem; margin-left: 2rem; list-style-position: outside; }
+
+    ul { margin-top: 1rem; margin-left: 1rem; }
+    ul li { list-style-type: disc; }
+    ul li ul { margin-top: 0; }
+    ul li ul li { list-style-type: circle; }
 }
 </style>
     ]]>
