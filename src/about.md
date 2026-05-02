@@ -2,7 +2,7 @@
 title: About
 layout: about.njk
 name: このブログについて
-image: '/images/me_202401.png?20240518'
+image: '/images/me_202605.png?20260502'
 ---
 
 このブログはサイドFIREを始めたくまが、サイドFIREや投資などお金に関する話題を発信していくブログです。
