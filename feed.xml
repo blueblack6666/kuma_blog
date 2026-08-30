@@ -5,7 +5,7 @@
   <link href="https://kumablog.blueblack6666.com/feed.xml" rel="self"/>
   <link href="https://kumablog.blueblack6666.com/"/>
   
-    <updated>2026-08-25T00:00:00Z</updated>
+    <updated>2026-08-30T00:00:00Z</updated>
   
   <id>https://kumablog.blueblack6666.com</id>
   <author>
@@ -19890,6 +19890,101 @@ Geminiさん曰く選択肢は3つ。<br/></p>
 .post__content ol {
     margin-top: 1rem;
 }
+
+
+</style>
+    ]]>
+      </content>
+    </entry>
+  
+    
+    <entry>
+      <title>ドル円の振り返りと今後の見通し（8/31～）</title>
+      <link href="https://kumablog.blueblack6666.com/posts/posts2026-051/"/>
+      <updated>2026-08-30T00:00:00Z</updated>
+      <id>https://kumablog.blueblack6666.com/posts/posts2026-051/</id>
+      <content type="html">
+        <![CDATA[
+      <p>こんにちは。くまです。<br/>
+いつものように、ドル円の1週間を振り返りつつ、今週の見通しについて考えていきます。</p>
+<h2>1週間の振り返り</h2>
+<p><img src="/images/b2026-051-01.png" alt=""></p>
+<p>戻ってきたぜ！おかえり、160円。<br/>
+ここのところ160円を前にして足踏みしていたドル円がついに160円台まで戻ってきました。<br/></p>
+<p>動きがあったのはジャクソンホール会議でのウォーシュさんの発言のタイミング。<br/>
+内容が利上げを示唆するタカ派だったため、ドル円は一気に160円台まで上昇しました。<br/>
+その後は介入警戒感もあってか、160円台前半で推移。<br/>
+終値160.079円で週を終えています。</p>
+<p>■ くまの取引実績</p>
+<table style="min-width:18rem">
+<tr>
+    <td>評価損益</td>
+    <td style="text-align:right;">0 円</td>
+</tr>
+<tr><td>決済損益</td><td style="text-align:right;">0 円</td></tr>
+<tr><td>スワップ損益</td><td style="text-align:right">0 円 </td></tr>
+</table>
+<p>成果なし。
+いつも通りの一週間でした。</p>
+<h2>今週の見通し</h2>
+<p>＜8/31からの主なイベント＞</p>
+<ul>
+<li>9/1（火）ISM製造業景況指数</li>
+<li>9/2（水）ADP雇用統計</li>
+<li>9/3（木）新規失業保険申請件数、失業保険継続受給者数</li>
+<li>9/3（木）ISM非製造業景況指数(総合)</li>
+<li>9/4（金）雇用統計</li>
+</ul>
+<p><img src="/images/b2026-051-02.png" alt=""></p>
+<p>ウォーシュさんの発言でアメリカの9月利上げ確率が上昇しています。<br/>
+今週の雇用統計の結果が利上げを否定するものではない場合、利上げ確率が大きく上昇し、円安が加速する可能性もあります。</p>
+<p>そして、忘れてはならないのが為替介入。<br/>
+現在のドル円は節目の160円台にのせてきたところです。<br/>
+ここで介入がなければ、前回の高値目指して一直線に上昇していきかねません。</p>
+<p>つまるところ今週のドル円は介入がなければ円安方向に動くシナリオが有力。<br/>
+サブシナリオで為替介入が実施されて下落といったところでしょうか。</p>
+<p>逆張りロングの民としては、メインシナリオは静観。<br/>
+サブシナリオを想定し、介入ありきの155円台からの反発を狙っていく所存です。</p>
+<p>以上、今週の予想でした。</p>
+<h2>関連記事</h2>
+<a class="internal-link" href="/posts/posts2024-036/">
+    <img src="/images/b2024-036.png">
+</a>
+<br/>
+<hr/>
+<a class="amzn" href="https://amzn.to/40FdntN">
+    <img src="https://m.media-amazon.com/images/I/81UjFprK8yS._SY425_.jpg">
+</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=3Z7BNF+CONHRM+4SM6+614CX" rel="nofollow">
+<img border="0" width="728" height="90" alt="" src="https://www25.a8.net/svt/bgt?aid=240526779767&wid=001&eno=01&mid=s00000022371001013000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=3Z7BNF+CONHRM+4SM6+614CX" alt="">
+<p><a href="https://blogmura.com/ranking/in?p_cid=11188911" target="_blank"><img src="https://b.blogmura.com/88_31.gif" width="88" height="31" border="0" alt="ブログランキング・にほんブログ村へ" /></a></p>
+<style>
+.internal-link {
+    img { width: 220px; }
+}
+
+.amzn { 
+    width: 100px; display: inline-block; word-break: break-all; text-align: center; margin-right: 30px;
+    img { object-fit: contain; width: 100%; height: 100%; }
+}
+
+.post__content ul {
+    list-style-type: disc;
+    margin-top: 1rem;
+
+   li::before {
+        content: "・"; /* 任意の記号 */
+        margin-right: 8px;
+    }
+    li {
+        display: flex;
+        align-items: flex-start;
+    }
+
+ 
+}
+
 
 
 </style>
